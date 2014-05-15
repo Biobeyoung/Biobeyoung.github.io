@@ -4,7 +4,7 @@
   <title><![CDATA[Biobeyoung's Blog]]></title>
   <link href="http://Biobeyoung.github.io/atom.xml" rel="self"/>
   <link href="http://Biobeyoung.github.io/"/>
-  <updated>2014-05-15T10:18:24+08:00</updated>
+  <updated>2014-05-15T10:28:12+08:00</updated>
   <id>http://Biobeyoung.github.io/</id>
   <author>
     <name><![CDATA[Biobeyoung]]></name>
@@ -19,7 +19,7 @@
     <updated>2014-05-15T10:05:31+08:00</updated>
     <id>http://Biobeyoung.github.io/blog/2014/05/15/wget-command</id>
     <content type="html"><![CDATA[<p>镜像一个网站
-&lsquo; $ wget -m -k (-H) <a href="http://www.example.com/">http://www.example.com/</a> &rsquo;</p>
+<code>wget -m -k www.example.com</code></p>
 ]]></content>
   </entry>
   
