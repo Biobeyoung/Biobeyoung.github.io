@@ -6,5 +6,5 @@ comments: true
 categories: 
 ---
 镜像一个网站
-' $ wget -m -k (-H) http://www.example.com/ '
+` wget -m -k www.example.com `
 
