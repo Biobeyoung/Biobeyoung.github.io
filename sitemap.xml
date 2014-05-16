@@ -2,25 +2,25 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://Biobeyoung.github.io/blog/2014/04/05/wei-xuan-ze-de-lu/</loc>
-        <lastmod>2014-04-28T21:15:22+08:00</lastmod>
+        <lastmod>2014-05-16T15:46:40+08:00</lastmod>
     </url>
     <url>
         <loc>http://Biobeyoung.github.io/blog/2014/04/05/sui-bi/</loc>
-        <lastmod>2014-04-28T21:15:03+08:00</lastmod>
+        <lastmod>2014-05-16T15:46:28+08:00</lastmod>
     </url>
     <url>
         <loc>
             http://Biobeyoung.github.io/blog/2014/04/06/kai-shi-cong-xue-xiao-zou-xiang-she-hui/
         </loc>
-        <lastmod>2014-04-28T21:13:14+08:00</lastmod>
+        <lastmod>2014-05-16T15:46:53+08:00</lastmod>
     </url>
     <url>
         <loc>http://Biobeyoung.github.io/blog/2014/04/06/ni-jin-li-liao-ma/</loc>
-        <lastmod>2014-04-28T21:17:13+08:00</lastmod>
+        <lastmod>2014-05-16T15:47:04+08:00</lastmod>
     </url>
     <url>
         <loc>http://Biobeyoung.github.io/blog/2014/05/15/wget-command/</loc>
-        <lastmod>2014-05-15T10:28:05+08:00</lastmod>
+        <lastmod>2014-05-16T15:47:16+08:00</lastmod>
     </url>
     <url>
         <loc>http://Biobeyoung.github.io/robots.txt</loc>
@@ -28,19 +28,19 @@
     </url>
     <url>
         <loc>http://Biobeyoung.github.io/</loc>
-        <lastmod>2014-05-15T10:28:05+08:00</lastmod>
+        <lastmod>2014-05-16T15:47:16+08:00</lastmod>
     </url>
     <url>
         <loc>http://Biobeyoung.github.io/life/</loc>
-        <lastmod>2014-04-28T21:24:48+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Biobeyoung.github.io/read/</loc>
-        <lastmod>2014-04-28T21:31:31+08:00</lastmod>
+        <lastmod>2014-05-16T15:45:17+08:00</lastmod>
     </url>
     <url>
         <loc>http://Biobeyoung.github.io/blog/archives/</loc>
-        <lastmod>2014-05-15T10:28:05+08:00</lastmod>
+        <lastmod>2014-05-16T15:47:16+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Biobeyoung.github.io/book/</loc>
+        <lastmod>2014-05-16T15:45:30+08:00</lastmod>
     </url>
     <url>
         <loc>http://Biobeyoung.github.io/about/</loc>
@@ -48,6 +48,6 @@
     </url>
     <url>
         <loc>http://Biobeyoung.github.io/tech/</loc>
-        <lastmod>2014-04-28T21:24:37+08:00</lastmod>
+        <lastmod>2014-05-16T15:45:00+08:00</lastmod>
     </url>
 </urlset>
