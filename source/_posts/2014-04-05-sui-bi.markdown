@@ -3,7 +3,7 @@ layout: post
 title: "随笔"
 date: 2014-04-05 22:03:35 +0800
 comments: true
-categories: 
+categories: life
 ---
 我总是挑自己好的方面的写，因为我是个俗人……
 
