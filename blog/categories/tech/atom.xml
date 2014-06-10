@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tech | Biobeyoung's Blog]]></title>
   <link href="http://Biobeyoung.github.io/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://Biobeyoung.github.io/"/>
-  <updated>2014-05-25T09:49:48+08:00</updated>
+  <updated>2014-06-10T10:51:57+08:00</updated>
   <id>http://Biobeyoung.github.io/</id>
   <author>
     <name><![CDATA[Biobeyoung]]></name>
@@ -18,7 +18,7 @@
     <link href="http://Biobeyoung.github.io/blog/2014/05/15/wget-command/"/>
     <updated>2014-05-15T10:05:31+08:00</updated>
     <id>http://Biobeyoung.github.io/blog/2014/05/15/wget-command</id>
-    <content type="html"><![CDATA[<p>镜像一个网站
+    <content type="html"><![CDATA[<p>镜像一个站点
 <code>wget -m -k www.example.com</code></p>
 ]]></content>
   </entry>
