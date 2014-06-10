@@ -2,7 +2,7 @@
 layout: post
 title: "未选择的路"
 date: 2014-04-05 21:47:00 +0800
-comments: true
+comments: false
 categories: book
 ---
 这是我最喜欢的一首诗，就把它作为博客的第一篇吧。

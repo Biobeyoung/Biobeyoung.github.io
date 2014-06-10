@@ -2,7 +2,7 @@
 layout: post
 title: "开始从学校走向社会"
 date: 2014-04-06 19:55:33 +0800
-comments: true
+comments: false
 categories: life
 ---
 断断续续上了一段时间的班了，期间也加了三个晚上的班。写写这段时间来自己的变化吧，好记性不如烂笔头，以后回忆的时候也好翻出来看看这个时期稚嫩的自己。

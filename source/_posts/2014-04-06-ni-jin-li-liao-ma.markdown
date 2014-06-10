@@ -2,7 +2,7 @@
 layout: post
 title: "你尽力了吗"
 date: 2014-04-06 20:02:14 +0800
-comments: true
+comments: false
 categories: life
 ---
 发信人: cloudsky (小四), 信区: Security

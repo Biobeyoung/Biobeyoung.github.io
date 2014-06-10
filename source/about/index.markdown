@@ -8,3 +8,4 @@ footer: true
 ---
 - 我一直在寻找我自己
 - Biobeyoung#gmail.com
+- [Collamark](http://collamark.com/#/?author=Biobeyoung)
